@@ -8,7 +8,7 @@
 | Other Notes:      | Linumiz, would like to port Yocto on CM3 + Lemuria.   |
 |	            | Its technically feasible to port yocto to rockchip/rk3566, if schematics for CM3 are made available. |
 |		    | Project will be open sourced in post development and early piloting phase, currently it's not public. |
-|		    | Details and photos can be found here <link-to-Linumiz-Lemuria-webpage>. |
+|		    | Details and photos can be found here link-to-Linumiz-Lemuria-webpage |
 
 
 
